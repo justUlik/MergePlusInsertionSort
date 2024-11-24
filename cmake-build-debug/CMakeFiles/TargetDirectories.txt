@@ -1,0 +1,3 @@
+/Users/ulyanaeskova/CLionProjects/MergePlusInsertionSort/cmake-build-debug/CMakeFiles/MergePlusInsertionSort.dir
+/Users/ulyanaeskova/CLionProjects/MergePlusInsertionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ulyanaeskova/CLionProjects/MergePlusInsertionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
